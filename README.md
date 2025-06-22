@@ -4,14 +4,27 @@
 
 ---
 
+## Recently Active Repositories
+
+- [akbar-q/hardware-projects](https://github.com/akbar-q/hardware-projects)  
+  PCB designs, embedded firmware, and IoT prototypes.
+
+- [akbar-q/embedded-labs](https://github.com/akbar-q/embedded-labs)  
+  STM32, ESP32, and Arduino code samples and experiments.
+
+- [akbar-q/simulation-models](https://github.com/akbar-q/simulation-models)  
+  MATLAB, Simulink, and LTspice simulation files.
+
+---
+
 ## My GitHub Commits This Month
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits%20this%20month-{{COMMITS}}-002724?style=for-the-badge&labelColor=FFB800&color=002724&label=Commits%20this%20month" alt="Commits this month" />
+  <img src="https://img.shields.io/badge/Commits%20this%20month-XX-002724?style=for-the-badge&labelColor=FFB800&color=002724&label=Commits%20this%20month" alt="Commits this month" />
 </p>
 
 <!-- 
-Tip: Replace {{COMMITS}} with your actual commit count for the month. 
+Tip: Replace XX with your actual commit count for the month.
 You can update this manually, or use a GitHub Action to automate it.
 -->
 
