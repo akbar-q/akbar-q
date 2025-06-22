@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Akbar Q
+# Akbar Q
 
 **Electrical & Electronic Engineer** | Hardware Design Enthusiast | Embedded Systems | Open Source Contributor
 
 ---
 
-## 📈 My GitHub Contributions
+## My GitHub Contributions
 
 <!-- GitHub contribution graph: automatically rendered on your profile page -->
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Software & Tools
+## Software & Tools
 
 - **Hardware Design:** KiCad, Altium Designer, LTspice, Proteus, Multisim
 - **Embedded Systems:** Arduino IDE, PlatformIO, ESP-IDF, STM32CubeIDE
@@ -30,7 +30,7 @@
 
 ---
 
-## ⚡ Skills & Interests
+## Skills & Interests
 
 - PCB Design & Schematic Capture
 - Embedded Firmware Development (ESP32, STM32, Arduino)
@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Advanced hardware design for robotics and automation
 - Open-source educational resources for embedded systems
@@ -49,7 +49,7 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [Personal Website](https://your-website.com)
