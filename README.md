@@ -4,18 +4,16 @@
 
 ---
 
-## My GitHub Contributions
+## My GitHub Commits This Month
 
-<!-- GitHub contribution graph: automatically rendered on your profile page -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akbar-q&show_icons=true&count_private=true&hide=prs&theme=default" alt="Akbar's GitHub stats" />
+  <img src="https://img.shields.io/badge/Commits%20this%20month-{{COMMITS}}-002724?style=for-the-badge&labelColor=FFB800&color=002724&label=Commits%20this%20month" alt="Commits this month" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbar-q&theme=default" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=akbar-q&theme=gray" alt="GitHub Contribution Graph" />
-</p>
+
+<!-- 
+Tip: Replace {{COMMITS}} with your actual commit count for the month. 
+You can update this manually, or use a GitHub Action to automate it.
+-->
 
 ---
 
