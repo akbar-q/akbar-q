@@ -28,7 +28,7 @@
 ## My GitHub Commits This Month
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits%20this%20month-XX-002724?style=for-the-badge&labelColor=FFB800&color=002724&label=Commits%20this%20month" alt="Commits this month" />
+  <img src="https://img.shields.io/badge/Commits%20this%20month-0-002724?style=for-the-badge&labelColor=FFB800&color=002724&label=Commits%20this%20month" alt="Commits this month" />
 </p>
 
 <!-- 
