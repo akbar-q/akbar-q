@@ -89,7 +89,7 @@ Experienced Electrical and Electronics Engineer with 3 years of practical hardwa
     </td>
     <td align="center">
       <a href="mailto:contact@akbarq.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" alt="Email" width="40" height="40"/><br>
         <b>Email</b>
       </a>
     </td>
@@ -97,6 +97,12 @@ Experienced Electrical and Electronics Engineer with 3 years of practical hardwa
       <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/><br>
         <b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:contact@akbarq.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" alt="Email Me" width="40" height="40"/><br>
+        <b>Email</b>
       </a>
     </td>
     <td align="center">
