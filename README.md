@@ -51,15 +51,15 @@ Experienced Electrical and Electronics Engineer with 3 years of practical hardwa
 <table>
   <tr>
     <td><b>Hardware Design</b></td>
-    <td>KiCad, Altium Designer, LTspice, Proteus, Multisim</td>
+    <td>KiCad, Altium Designer, DipTrace, Eagle </td>
   </tr>
   <tr>
     <td><b>Embedded Systems</b></td>
-    <td>Arduino IDE, PlatformIO, ESP-IDF, STM32CubeIDE</td>
+    <td>Visual Studio Code, Arduino IDE, Thonny</td>
   </tr>
   <tr>
     <td><b>Simulation & Modeling</b></td>
-    <td>MATLAB, Simulink, Scilab, SPICE, COMSOL</td>
+    <td>MATLAB, Simulink, COMSOL, LTspice, Proteus, NI Multisim</td>
   </tr>
   <tr>
     <td><b>Programming</b></td>
@@ -67,12 +67,13 @@ Experienced Electrical and Electronics Engineer with 3 years of practical hardwa
   </tr>
   <tr>
     <td><b>Version Control</b></td>
-    <td>Git, GitHub, GitLab</td>
+    <td>GitHub, Syncthing, iDrive</td>
+  </tr>
+  <tr>'
+      <td><b>Other Platforms I Utilize</b></td>
+    <td>Nextcloud, Docker, WSL, TrueNAS Core, Hypervisor</td>
   </tr>
   <tr>
-    <td><b>Other</b></td>
-    <td>VS Code, Jupyter, Fritzing, Eagle</td>
-  </tr>
 </table>
 
 ---
