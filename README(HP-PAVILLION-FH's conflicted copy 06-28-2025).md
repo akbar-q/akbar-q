@@ -9,7 +9,7 @@
 
 <!-- Branding bar -->
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=&color=002724&labelColor=FFB800&style=flat-square" width="100%" height="2px">
+  <img src="https://img.shields.io/static/v1?label=PROFILE&message=Welcome&color=002724&labelColor=FFB800&style=flat-square">
 </p>
 
 ## Recently Active Repositories
@@ -23,18 +23,6 @@
 - [akbar-q/simulation-models](https://github.com/akbar-q/simulation-models)  
   MATLAB, Simulink, and LTspice simulation files.
 
----
-
-## My GitHub Commits This Month
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits%20this%20month-0-002724?style=for-the-badge&labelColor=FFB800&color=002724&label=Commits%20this%20month" alt="Commits this month" />
-</p>
-
-<!-- 
-Tip: Replace XX with your actual commit count for the month.
-You can update this manually, or use a GitHub Action to automate it.
--->
 
 ---
 

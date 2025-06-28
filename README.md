@@ -23,11 +23,6 @@
 - [akbar-q/simulation-models](https://github.com/akbar-q/simulation-models)  
   MATLAB, Simulink, and LTspice simulation files.
 
----
-
-<!-- 
-Tip: You can add more sections or badges here if you like.
--->
 
 ---
 
