@@ -7,11 +7,6 @@
 
 ---
 
-<!-- Branding bar -->
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=PROFILE&message=Welcome&color=002724&labelColor=FFB800&style=flat-square">
-</p>
-
 ## Recently Active Repositories
 
 - [akbar-q/hardware-projects](https://github.com/akbar-q/hardware-projects)  
@@ -81,10 +76,3 @@
 [LinkedIn](https://www.linkedin.com/in/your-linkedin) &nbsp;|&nbsp; [Personal Website](https://your-website.com) &nbsp;|&nbsp; [GitHub](https://github.com/akbar-q)
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=&color=002724&labelColor=FFB800&style=flat-square" width="100%" height="2px">
-</p>
-
-<p align="center"><i>Let's build the future of hardware, one project at a time!</i></p>
-
