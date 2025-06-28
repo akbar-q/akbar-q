@@ -1,7 +1,5 @@
 # Akbar Q
 
-## WORK IN PROGRESS Landing PAGE - Scroll Down for Repo List or go to www.akbarq.com
-
 **Electrical & Electronic Engineer** &nbsp;|&nbsp; Hardware Design Enthusiast &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; Open Source Contributor
 
 ---
