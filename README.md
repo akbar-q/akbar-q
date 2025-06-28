@@ -89,7 +89,7 @@ Experienced Electrical and Electronics Engineer with 3 years of practical hardwa
     </td>
     <td align="center">
       <a href="mailto:contact@akbarq.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40"/><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Email_Envelope.svg" alt="Email" width="40" height="40"/><br>
         <b>Email</b>
       </a>
     </td>
@@ -101,7 +101,7 @@ Experienced Electrical and Electronics Engineer with 3 years of practical hardwa
     </td>
     <td align="center">
       <a href="https://github.com/akbar-q" target="_blank">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.svg" alt="GitHub" width="40" height="40"/><br>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" height="40"/><br>
         <b>GitHub</b>
       </a>
     </td>
