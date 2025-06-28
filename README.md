@@ -81,6 +81,22 @@ Experienced Electrical and Electronics Engineer with 3 years of practical hardwa
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) &nbsp;|&nbsp; [Personal Website](https://your-website.com) &nbsp;|&nbsp; [GitHub](https://github.com/akbar-q)
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://your-website.com" target="_blank" title="Personal Website">
+    <img src="https://github.com/akbar-q/akbarqweb/raw/gh-pages/assets/1200x600wa.png" alt="Personal Website" width="32" height="32" style="border-radius:6px;"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/akbar-q" target="_blank" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" />
+  </a>
+  &nbsp;
+  <a href="mailto:contact@akbarq.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="32" height="32" />
+  </a>
+</p>
 
 ---
