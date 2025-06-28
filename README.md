@@ -1,7 +1,5 @@
 # Akbar Q
 
-## WORK IN PROGRESS Landing PAGE - Scroll Down for Repo List or go to www.akbarq.com
-
 **Electrical & Electronic Engineer** &nbsp;|&nbsp; Hardware Design Enthusiast &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; Open Source Contributor
 
 ---
@@ -81,35 +79,6 @@ Experienced Electrical and Electronics Engineer with 3 years of practical hardwa
 
 ## Connect with Me
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://your-website.com" target="_blank">
-        <img src="https://github.com/akbar-q/akbarqweb/raw/gh-pages/assets/1200x600wa.png" alt="Personal Website" width="40" height="40"/><br>
-        <b>Website</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:contact@akbarq.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" alt="Email" width="40" height="40"/><br>
-        <b>Email</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/><br>
-        <b>LinkedIn</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/akbar-q" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/><br>
-        <b>GitHub</b>
-      </a>
-    </td>
-  </tr>
-</table>
+[LinkedIn](https://www.linkedin.com/in/your-linkedin) &nbsp;|&nbsp; [Personal Website](https://your-website.com) &nbsp;|&nbsp; [GitHub](https://github.com/akbar-q)
 
 ---
----
-
