@@ -1,7 +1,5 @@
 # Akbar Q
 
-## WORK IN PROGRESS Landing PAGE - Scroll Down for Repo List or go to www.akbarq.com
-
 **Electrical & Electronic Engineer** &nbsp;|&nbsp; Hardware Design Enthusiast &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; Open Source Contributor
 
 ---
@@ -57,23 +55,20 @@ Experienced Electrical and Electronics Engineer with 3 years of practical hardwa
   </tr>
   <tr>
     <td><b>Embedded Systems</b></td>
-    <td>Arduino IDE, PlatformIO, ESP-IDF, STM32CubeIDE</td>
+    <td>Visual Studio Code, Arduino IDE</td>
   </tr>
   <tr>
     <td><b>Simulation & Modeling</b></td>
-    <td>MATLAB, Simulink, Scilab, SPICE, COMSOL</td>
+    <td>MATLAB, Simulink, SPICE, COMSOL</td>
   </tr>
   <tr>
     <td><b>Programming</b></td>
-    <td>C/C++, MATLAB, YAML</td>
+    <td>C/C++, YAML, MATLAB, Bash</td>
   </tr>
   <tr>
     <td><b>Version Control</b></td>
-    <td>Git, GitHub, GitLab</td>
+    <td>GitHub, Syncthing, iDrive </td>
   </tr>
-  <tr>
-    <td><b>Other</b></td>
-    <td>VS Code, Jupyter, Fritzing, Eagle</td>
   </tr>
 </table>
 
@@ -81,6 +76,6 @@ Experienced Electrical and Electronics Engineer with 3 years of practical hardwa
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) &nbsp;|&nbsp; [Personal Website](https://your-website.com) &nbsp;|&nbsp; [GitHub](https://github.com/akbar-q)
+[LinkedIn](https://www.linkedin.com/in/akbar-qamar) &nbsp;|&nbsp; [Personal Website](https://www.akbarq.com) &nbsp;|&nbsp; [GitHub](https://github.com/akbar-q)
 
 ---
